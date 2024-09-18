@@ -1,1 +1,3 @@
 I been studying python for 1 year. My thesis work in colledge (at CS 3rd year) started one week ago, so currently I'm looking for ideas and directions on what to work on. My main idea is to implement a series of basic machine learning algorithms. I started a short course on ML fundamentals on EdX. Goal: gather theory and finish the course final project. In meantime I might come up with more original projects to use what I learned.
+
+Im intersted in Openai Spinning Up course - an introduction into reinforcement learning. So far, I only went through key concepts section - formulations and formulas. Since basic ML is recommended for this course, doing ML projects fir thesis seems like a good idea. 
